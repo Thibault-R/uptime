@@ -4,21 +4,20 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
+  - name: Nord Compo
+    url: https://nordcompo.fr/
+  - name: NordSoft
+    url: https://www.nordsoft.fr/
+  - name: Libeo
+    url: https://www.libeo.net/
+  - name: Comité France Chine
+    url: http://cfc.libeo.net/
+  - name: ClicEdit - Dév
+    url: http://clicedit.libeo.net/
+  - name: ClicEdit - Prod
+    url: http://www.clicedit.com/
   - name: Secret Site
     url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
