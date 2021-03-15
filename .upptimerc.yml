@@ -20,8 +20,6 @@ sites:
     url: http://clicedit.libeo.net/
   - name: ClicEdit - Prod
     url: http://www.clicedit.com/
-  - name: Broken Site
-    url: $SECRET_SITE
 
 
 status-website:
