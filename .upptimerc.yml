@@ -2,6 +2,10 @@
 owner: Thibault-R # Your GitHub username
 repo: uptime # Your GitHub repository name
 
+status-website:
+  introTitle: "**Libeo**"
+  introMessage: Page de test uptime/downtime.
+
 # Add your sites here
 sites:
   - name: Google
