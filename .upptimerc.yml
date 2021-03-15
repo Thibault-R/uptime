@@ -25,7 +25,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Libeo
+  name: Statut - Sites Libeo
   introTitle: "**Libeo**"
   introMessage: Page de test uptime/downtime.
   navbar:
