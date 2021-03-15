@@ -2,7 +2,7 @@
   {
     "name": "Nord Compo",
     "url": "https://nordcompo.fr/",
-    "icon": "https://favicons.githubusercontent.com/nordcompo.fr",
+    "icon": "https://nordcompo.fr/app/uploads/2020/01/logonc-1.png",
     "slug": "nord-compo",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 849,
-    "timeWeek": 849,
-    "timeMonth": 849,
-    "timeYear": 849,
+    "time": 844,
+    "timeDay": 844,
+    "timeWeek": 844,
+    "timeMonth": 844,
+    "timeYear": 844,
     "dailyMinutesDown": {}
   },
   {
     "name": "NordSoft",
     "url": "https://www.nordsoft.fr/",
-    "icon": "https://favicons.githubusercontent.com/www.nordsoft.fr",
+    "icon": "https://www.nordsoft.fr/wp-content/uploads/2020/02/nordsoft-logo-1.png",
     "slug": "nord-soft",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1082,
-    "timeDay": 1082,
-    "timeWeek": 1082,
-    "timeMonth": 1082,
-    "timeYear": 1082,
+    "time": 1102,
+    "timeDay": 1102,
+    "timeWeek": 1102,
+    "timeMonth": 1102,
+    "timeYear": 1102,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 825,
-    "timeDay": 825,
-    "timeWeek": 825,
-    "timeMonth": 825,
-    "timeYear": 825,
+    "time": 873,
+    "timeDay": 873,
+    "timeWeek": 873,
+    "timeMonth": 873,
+    "timeYear": 873,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 936,
-    "timeDay": 936,
-    "timeWeek": 936,
-    "timeMonth": 936,
-    "timeYear": 936,
+    "time": 989,
+    "timeDay": 989,
+    "timeWeek": 989,
+    "timeMonth": 989,
+    "timeYear": 989,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 837,
-    "timeWeek": 837,
-    "timeMonth": 837,
-    "timeYear": 837,
+    "time": 1235,
+    "timeDay": 1235,
+    "timeWeek": 1235,
+    "timeMonth": 1235,
+    "timeYear": 1235,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1893,
-    "timeDay": 1893,
-    "timeWeek": 1893,
-    "timeMonth": 1893,
-    "timeYear": 1893,
+    "time": 1887,
+    "timeDay": 1887,
+    "timeWeek": 1887,
+    "timeMonth": 1887,
+    "timeYear": 1887,
     "dailyMinutesDown": {}
   },
   {
@@ -114,9 +114,9 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
@@ -124,7 +124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-15": 27
+      "2021-03-15": 33
     }
   }
 ]
