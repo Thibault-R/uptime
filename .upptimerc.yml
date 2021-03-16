@@ -8,7 +8,7 @@ sites:
     url: https://nordcompo.fr/
     icon: https://nordcompo.fr/app/uploads/2020/01/logonc-1.png
     expectedStatusCodes:
-      - 404
+      - 200
   - name: NordSoft
     url: https://www.nordsoft.fr/
     method: GET
@@ -64,12 +64,9 @@ i18n:
   degradedPerformance: 🟨 Problèmes détectées sur les sites
   completeOutage: 🟥 Panne complète
   partialOutage: 🟧 Panne partielle
-  overallUptime: Délai de réponse global: $UPTIME
   overallUptimeTitle: Délai de réponse global
-  averageResponseTime: Délai de réponse moyen: $TIMEms
   averageResponseTimeTitle: Délai de réponse moyen
   pastIncidents: Incidents passés
-  pastIncidentsResolved: Résolu en $MINUTES minutes avec le poste $POSTS
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
