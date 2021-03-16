@@ -16,6 +16,10 @@ sites:
   - name: Libeo
     url: https://www.libeo.net/
     method: POST
+  - name: Google
+    check: "tcp-ping"
+    url: 46.28.246.123
+    port: 80
   - name: Comité France Chine
     url: http://cfc.libeo.net/
   - name: ClicEdit - Dév
