@@ -60,10 +60,16 @@ i18n:
   responseTimeGraphAlt: Graphique délai de réponse
   ms: ms
   liveStatus: Sites Live
-  allSystemsOperational: 🟩 Tout les sites sont en ligne
+  allSystemsOperational: 🟩 Tous les sites sont en ligne
   degradedPerformance: 🟨 Problèmes détectées sur les sites
   completeOutage: 🟥 Panne complète
   partialOutage: 🟧 Panne partielle
+  overallUptime: Délai de réponse global: $UPTIME
+  overallUptimeTitle: Délai de réponse global
+  averageResponseTime: Délai de réponse moyen: $TIMEms
+  averageResponseTimeTitle: Délai de réponse moyen
+  pastIncidents: Incidents passés
+  pastIncidentsResolved: Résolu en $MINUTES minutes avec le poste $POSTS
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
