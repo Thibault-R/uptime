@@ -26,25 +26,8 @@ sites:
     url: http://clicedit.libeo.net/
   - name: ClicEdit - Prod
     url: http://www.clicedit.com/
-
-i18n:
-  status: Statut
-  history: Historique
-  responseTime: Délai de réponse
-  uptime: Libeo
-  up: 🟩 En ligne
-  degraded: 🟨 Problèmes
-  down: 🟥 Hors ligne
-  responseTimeGraphAlt: Graphique délai de réponse
-  ms: ms
-  liveStatus: Sites Live
-  allSystemsOperational: 🟩 Tout les sites sont en ligne
-  degradedPerformance: 🟨 Problèmes détectées sur les sites
-  completeOutage: 🟥 Panne complète
-  partialOutage: 🟧 Panne partielle
+    
   
-
-
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
@@ -65,6 +48,22 @@ status-website:
 # See https://upptime.js.org/docs/configuration
  notification:
   - type: telegram
+  
+ i18n:
+  status: Statut
+  history: Historique
+  responseTime: Délai de réponse
+  uptime: Libeo
+  up: 🟩 En ligne
+  degraded: 🟨 Problèmes
+  down: 🟥 Hors ligne
+  responseTimeGraphAlt: Graphique délai de réponse
+  ms: ms
+  liveStatus: Sites Live
+  allSystemsOperational: 🟩 Tout les sites sont en ligne
+  degradedPerformance: 🟨 Problèmes détectées sur les sites
+  completeOutage: 🟥 Panne complète
+  partialOutage: 🟧 Panne partielle
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
