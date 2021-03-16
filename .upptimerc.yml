@@ -28,20 +28,20 @@ sites:
     url: http://www.clicedit.com/
 
 i18n:
-  status: "Statut"
-  history: "Historique"
-  responseTime: "Délai de réponse"
-  uptime: "Libeo"
-  up: "🟩 En ligne"
-  degraded: "🟨 Problèmes"
-  down: "🟥 Hors ligne"
-  responseTimeGraphAlt: "Graphique délai de réponse"
-  ms: "ms"
-  liveStatus: "Sites Live"
-  allSystemsOperational: "🟩 Tout les sites sont en ligne"
-  degradedPerformance: "🟨 Problèmes détectées sur les sites"
-  completeOutage: "🟥 Panne complète"
-  partialOutage: "🟧 Panne partielle"
+  status: Statut
+  history: Historique
+  responseTime: Délai de réponse
+  uptime: Libeo
+  up: 🟩 En ligne
+  degraded: 🟨 Problèmes
+  down: 🟥 Hors ligne
+  responseTimeGraphAlt: Graphique délai de réponse
+  ms: ms
+  liveStatus: Sites Live
+  allSystemsOperational: 🟩 Tout les sites sont en ligne
+  degradedPerformance: 🟨 Problèmes détectées sur les sites
+  completeOutage: 🟥 Panne complète
+  partialOutage: 🟧 Panne partielle
   
 
 
