@@ -6,11 +6,9 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: Nord Compo
     url: https://nordcompo.fr/
-    __dangerous__disable_verify_host: false
     icon: https://nordcompo.fr/app/uploads/2020/01/logonc-1.png
   - name: NordSoft
     url: https://www.nordsoft.fr/
-    __dangerous__disable_verify_host: false
     icon: https://www.nordsoft.fr/wp-content/uploads/2020/02/nordsoft-logo-1.png
   - name: Libeo
     url: https://www.libeo.net/
@@ -33,7 +31,7 @@ status-website:
   introMessage: Page de test uptime/downtime.
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
