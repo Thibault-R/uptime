@@ -28,7 +28,7 @@ sites:
     url: http://www.clicedit.com/
 
 i18n:
-    status: "Statut"
+  status: "Statut"
   history: "Historique"
   responseTime: "Délai de réponse"
   uptime: "Libeo"
