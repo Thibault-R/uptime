@@ -8,9 +8,9 @@ sites:
     url: https://nordcompo.fr/
     icon: https://nordcompo.fr/app/uploads/2020/01/logonc-1.png
     expectedStatusCodes:
-      - 404
+      - 200
   - name: NordSoft
-    url: https://www.nordsoft.fr/
+    url: https://www.nordsoft.frrr/
     method: GET
     icon: https://www.nordsoft.fr/wp-content/uploads/2020/02/nordsoft-logo-1.png
   - name: Libeo
