@@ -5,17 +5,19 @@
     "icon": "https://nordcompo.fr/app/uploads/2020/01/logonc-1.png",
     "slug": "nord-compo",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 995,
-    "timeWeek": 866,
-    "timeMonth": 846,
-    "timeYear": 846,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 845,
+    "timeDay": 817,
+    "timeWeek": 864,
+    "timeMonth": 845,
+    "timeYear": 845,
+    "dailyMinutesDown": {
+      "2021-03-15": 199
+    }
   },
   {
     "name": "NordSoft",
@@ -23,17 +25,19 @@
     "icon": "https://www.nordsoft.fr/wp-content/uploads/2020/02/nordsoft-logo-1.png",
     "slug": "nord-soft",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
     "time": 1003,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1003,
     "timeYear": 1003,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 199
+    }
   },
   {
     "name": "Libeo",
@@ -41,17 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/www.libeo.net",
     "slug": "libeo",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 1223,
-    "timeWeek": 878,
-    "timeMonth": 831,
-    "timeYear": 831,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 830,
+    "timeDay": 765,
+    "timeWeek": 872,
+    "timeMonth": 830,
+    "timeYear": 830,
+    "dailyMinutesDown": {
+      "2021-03-15": 199
+    }
   },
   {
     "name": "Google",
@@ -59,17 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "google",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 59,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 59,
     "timeYear": 59,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 199
+    }
   },
   {
     "name": "Comité France Chine",
@@ -77,17 +85,19 @@
     "icon": "https://favicons.githubusercontent.com/cfc.libeo.net",
     "slug": "comite-france-chine",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1135,
-    "timeDay": 1430,
-    "timeWeek": 1063,
-    "timeMonth": 1135,
-    "timeYear": 1135,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 1129,
+    "timeDay": 923,
+    "timeWeek": 1056,
+    "timeMonth": 1129,
+    "timeYear": 1129,
+    "dailyMinutesDown": {
+      "2021-03-15": 199
+    }
   },
   {
     "name": "ClicEdit - Dév",
@@ -95,17 +105,19 @@
     "icon": "https://favicons.githubusercontent.com/clicedit.libeo.net",
     "slug": "clic-edit-dev",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1186,
-    "timeDay": 910,
-    "timeWeek": 1084,
-    "timeMonth": 1186,
-    "timeYear": 1186,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 1193,
+    "timeDay": 1445,
+    "timeWeek": 1145,
+    "timeMonth": 1193,
+    "timeYear": 1193,
+    "dailyMinutesDown": {
+      "2021-03-15": 199
+    }
   },
   {
     "name": "ClicEdit - Prod",
@@ -113,16 +125,18 @@
     "icon": "https://favicons.githubusercontent.com/www.clicedit.com",
     "slug": "clic-edit-prod",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1972,
-    "timeDay": 2551,
-    "timeWeek": 1607,
-    "timeMonth": 1972,
-    "timeYear": 1972,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 1963,
+    "timeDay": 1626,
+    "timeWeek": 1610,
+    "timeMonth": 1963,
+    "timeYear": 1963,
+    "dailyMinutesDown": {
+      "2021-03-15": 199
+    }
   }
 ]
